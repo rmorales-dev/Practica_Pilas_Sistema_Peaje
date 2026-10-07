@@ -9,7 +9,7 @@ public class Menu {
         Metodos m = new Metodos();
         Queue<ObjVehiculo> cola = new LinkedList<>();
         boolean continuar = true;
-
+//hola
         while (continuar) {
             System.out.println();
             System.out.println("Bienvenido a la estacion de peaje nacho lee");
