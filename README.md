@@ -16,4 +16,4 @@ El sistema debe permitir a través de un menú:
 4. Ver todos los vehículos en espera.   
 5. Total de dinero recaudado y vehículos atendidos.
 6. Salir.
-ok
+ok...
